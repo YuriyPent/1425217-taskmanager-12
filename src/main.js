@@ -6,7 +6,6 @@ import { createTaskTemplate } from "./view/task.js";
 import { createTaskEditTemplate } from "./view/task-edit.js";
 
 
-
 const TASK_COUNT = 3;
 
 const render = (container, template, place) => {
